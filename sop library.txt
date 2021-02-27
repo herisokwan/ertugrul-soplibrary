@@ -1,4 +1,3 @@
 kenapa sop library:
 1. mempermudah cabang dalam pencarian sop
-2. fasilitas live chat
-3. on progress blash notifikasi sop expired
+2. fasilitas live chat on progress
